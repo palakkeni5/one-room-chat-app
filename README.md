@@ -1,6 +1,6 @@
 # One Room Chat App
 
-This is a real-time multi-user chat application with a single chat room that allows users to communicate with each other.
+This project aims to develop a real-time multi-user chat application with a single chat room that allows users to communicate with each other. The application will have a React-based front-end, a Java Spring Boot back-end with a PostgreSQL database and Kafka as streams processing component.
 
 ## Demo
 
