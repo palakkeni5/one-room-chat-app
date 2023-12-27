@@ -2,6 +2,8 @@
 
 This project aims to develop a real-time multi-user chat application with a single chat room that allows users to communicate with each other. The application will have a React-based front-end, a Java Spring Boot back-end with a PostgreSQL database and Kafka as streams processing component.
 
+This project was completed as a part of my NYU Computer Engineering graduate course - CS9053 : Introduction to Java by Dr. Constantine (Dean) Christakos 
+
 ## Demo
 
 The demo video can be found at the root of this project
